@@ -1,6 +1,6 @@
 name := "contact-lib"
 
-organization := "com.rcirka"
+organization := "com.contact"
 
 version := "0.1.0-SNAPSHOT"
 
