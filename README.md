@@ -1,5 +1,5 @@
-# contact-lib
-A scala library to enable us to communicate with one Tushar Nagarajan.
+# Contact Library
+A Scala/Akka actor-based library to enable us to communicate with one Tushar Nagarajan.
 
 # Completed milestones
 - E-mail via Google mailer
